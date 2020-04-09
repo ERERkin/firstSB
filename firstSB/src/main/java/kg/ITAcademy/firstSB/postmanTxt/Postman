@@ -1,0 +1,9 @@
+http://localhost:8080/student
+
+{gi
+	"name": "J",
+	"age": 20,
+	"gender": "male",
+	"phone": "+(996)555000111",
+	"groupName": "jv"
+}
