@@ -22,4 +22,6 @@ public class StudentController {
     public Student create(@RequestBody Student student){
         return studentService.save(student);
     }
+
+
 }
